@@ -6,3 +6,4 @@ https://www.gitbook.com/
 https://github.com/GitbookIO/gitbook
 
 Made some changes
+Made even more changes
